@@ -57,4 +57,5 @@ streamlit run app.py
 
 
 ## Try and write you feedback
+- App link: https://aipoworeddocumentinteligence-bnyfmsfw4zu765y7j7cwj7.streamlit.app/
 - linkedeln: https://www.linkedin.com/in/darshanikanta-behera/
