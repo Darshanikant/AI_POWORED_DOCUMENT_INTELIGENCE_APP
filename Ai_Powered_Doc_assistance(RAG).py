@@ -78,6 +78,7 @@ st.sidebar.write("- Powered by **Gemini API**")
 st.sidebar.write("- Embeddings: **Hugging Face**")
 st.sidebar.write("- **Model Version 1.0**")
 st.sidebar.write("- Ask legal questions and get instant insights")
+st.sidebar.markdown("Developed by Darshanikanta")
 
 uploaded_file = st.file_uploader("📂 Upload Legal Document (PDF)", type="pdf")
 
@@ -96,7 +97,4 @@ if uploaded_file:
         st.write("### ✅ Answer:")
         st.write(answer)
 
-# Footer
-st.markdown("""---
-#### Developed by Darshanikanta
-""")
+
