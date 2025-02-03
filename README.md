@@ -55,14 +55,6 @@ streamlit run app.py
 3. After processing, you can enter a **legal question** in the text input field.
 4. Click the "Get Answer" button to receive an answer based on the uploaded document.
 
-## Contributing
-If you wish to contribute to the project, feel free to open an issue or create a pull request. 
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
 
 ## Try and write you feedback
 - linkedeln: https://www.linkedin.com/in/darshanikanta-behera/
