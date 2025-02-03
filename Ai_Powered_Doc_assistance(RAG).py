@@ -67,7 +67,8 @@ st.markdown(
 )
 
 # Streamlit UI
-st.title("📜 AI-Powered Legal Document Assistant")
+st.title("📜 AI-Powered Legal Assistant")
+st.write("This is a WebApps where You can upload you PDF file and ask any question to the model. The model will response. Thank you")
 
 # Sidebar with App Features
 st.sidebar.title("🛠 App Features")
