@@ -8,7 +8,7 @@ from langchain_community.vectorstores import FAISS
 from PyPDF2 import PdfReader
 
 # Configure Google Gemini API
-genai.configure(api_key="AIzaSyC2ZgR-NDrPvcN4oso75d3wkmoBpVMNVs4")
+genai.configure(api_key="AIzaSyCSCn6EI4whCkTiFqFB2dT06u-et4Flwg4")
 
 # Function to load text from PDF
 def load_pdf(file_path):
