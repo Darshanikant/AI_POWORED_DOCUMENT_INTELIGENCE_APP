@@ -4,5 +4,7 @@ langchain
 langchain-community
 langchain-huggingface
 faiss-cpu
-sentence-transformers
 pypdf2
+transformers
+torch
+sentence-transformers
